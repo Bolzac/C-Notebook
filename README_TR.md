@@ -23,5 +23,7 @@
   0111 0110
   ```
   Yukarıdaki makine dili kod bloğundaki gibi yüzlerce ve hatta binlerce satır olduğunu düşünün. Elbetteki bir insanın hızlı bir şekilde bunu yazması ve okuması kolay olmayacaktır. Bu sebeple de geliştiriciler bunu kolaylaştıracak yöntemler üzerinde çalışmışlardır. Sonrasında ise **Assembly** adında bir dil ile bir nebze olsa işlerini kolaylaştırmışlardır. Fakat bu da yeterli olmamıştır.
- <img src="https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/" align="center"/>
+  
+ <img src="https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/"/>
+ 
  Bu dilin çıkışıyla birlikte programlama dilleri oluşturulmaya başlandı.
